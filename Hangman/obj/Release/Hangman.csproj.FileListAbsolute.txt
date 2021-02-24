@@ -1,0 +1,33 @@
+D:\Amin\Hangman Program\Hangman\Hangman\bin\Release\Hangman.exe.config
+D:\Amin\Hangman Program\Hangman\Hangman\bin\Release\Hangman.exe
+D:\Amin\Hangman Program\Hangman\Hangman\bin\Release\Hangman.pdb
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.Form1.resources
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.Properties.Resources.resources
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.csproj.GenerateResource.Cache
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.exe
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.pdb
+D:\Amin\Hangman Program\Hangman\Hangman\obj\Release\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Amin\Desktop\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\Amin\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.exe
+C:\Users\Amin\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.pdb
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.exe
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.pdb
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\bin\Release\Hangman.pdb
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.Form1.resources
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\Hangman Project\Hangman\Hangman\obj\Release\Hangman.csproj.GenerateResource.Cache
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe.config
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.exe
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.pdb
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\bin\Release\Hangman.pdb
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.csprojResolveAssemblyReference.cache
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.Form1.resources
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.Properties.Resources.resources
+D:\porjeh hangman\Hangman Project\Hangman\Hangman\obj\Release\Hangman.csproj.GenerateResource.Cache
+D:\Ehsan\Hangman Project\Hangman\Hangman\bin\Release\Hangman.exe.config
+D:\Ehsan\Hangman Project\Hangman\Hangman\obj\Release\Hangman.exe
+D:\Ehsan\Hangman Project\Hangman\Hangman\obj\Release\Hangman.pdb
